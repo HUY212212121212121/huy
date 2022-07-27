@@ -5,7 +5,7 @@
 <h1>Welcome</h1>
 
 <?php
-echo "Huy toys store";
+echo "Huy toys store</br>";
 ?>
 
 
@@ -13,7 +13,7 @@ echo "Huy toys store";
 $t = date("27");
 
 if ($t < "26") {
-    echo "Have a good day!</br>";
+    echo "Have a good day!";
 } else {
     echo "Have a good night!";
 }
