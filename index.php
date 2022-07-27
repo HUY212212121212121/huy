@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<style> background-image: url('img_girl.jpg'); </style>
+<style> background-image: url ('img_girl.jpg'); </style>
 
 
 <h1>Welcome to huy store</h1>
