@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-body {
-<?php background-image: url('img_girl.jpg');?>
-
-
 <h1>Welcome to huy store</h1>
-
+<?php background-image: url('img_girl.jpg');?>
 <?php
 echo "Huy toys store</br>";
 ?>
