@@ -2,11 +2,8 @@
 <html>
 <body>
 body {
-background-image: url('img_girl.jpg');
-}
-</style>
-</head>
-<body>
+<?php background-image: url('img_girl.jpg');?>
+
 
 <h1>Welcome to huy store</h1>
 
