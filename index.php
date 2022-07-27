@@ -1,17 +1,31 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-body {
-  background-image: url('img_girl.jpg');
-}
-</style>
-</head>
 <body>
+<style>
 
-<h2>Welcome to Huy store</h2>
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 
-<p>We open 7am to 7pm every day and we close on the holiday.</p>
+</style>
 
+
+<h1>Welcome to huy store</h1>
+
+<?php
+echo "Huy toys store</br>";
+?>
+
+
+<?php
+$t = date("19");
+
+if ($t < "17") {
+    echo "We open!<>";
+} else {
+    echo "We close!";
+}
+?>
 </body>
 </html>
