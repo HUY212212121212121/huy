@@ -13,7 +13,7 @@ echo "Huy toys store";
 $t = date("27");
 
 if ($t < "26") {
-    echo "Have a good day!";
+    echo "Have a good day!</br>";
 } else {
     echo "Have a good night!";
 }
