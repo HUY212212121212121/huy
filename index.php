@@ -18,14 +18,14 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: #FF0000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: #008000;
 }
 
 .active {
@@ -37,9 +37,11 @@ li a:hover:not(.active) {
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a href="#Razer">News</a></li>
+  <li><a href="#Asus">Contact</a></li>
+  <li><a href="#MSI">About</a></li>
+  <li><a href="#Dell">About</a></li>
+  <li><a href="#Acer">About</a></li>
 </ul>
 
 </body>
