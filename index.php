@@ -77,27 +77,6 @@ echo "Huy laptop store</br>";
 	</div>
 </div>
 
-							
-							
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="col-sm-4 col-xs-12 padding-none col-fix20">
 	<div class="product-row">
@@ -124,22 +103,6 @@ echo "Huy laptop store</br>";
 	</div>
 </div>
 
-							
-							
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div class="col-sm-4 col-xs-12 padding-none col-fix20">
@@ -165,36 +128,7 @@ echo "Huy laptop store</br>";
 	</div>
 </div>
 
-							
-							
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
 <div class="col-sm-4 col-xs-12 padding-none col-fix20">
 	<div class="product-row">
 		<a href="/products/laptop-gaming-asus-rog-strix-g15-g513ih-hn015w">
@@ -221,66 +155,6 @@ echo "Huy laptop store</br>";
 		
 	</div>
 </div>
- <div class="product-list">
-                                                          <div class="product">
-                                            <div class="product__thumb">
-                                                      <a class="product__link" href="https://www.tncstore.vn/gaming-laptop/laptop-acer-gaming-predator-triton-500-se-pt516-52s-91xh.html"><img src="image/cache/catalog/laptop/laptop acer/Triton 500 SE PT516/laptop-acer-gaming-predator-triton-500-se-pt516-52s-91xh-1-228x228.jpg" alt="Laptop Acer Gaming Predator Triton 500 SE PT516-52s-91XH i9 12900H/ 32GB/ 1TB+1TB SSD/ RTX 3080Ti/ 16 inch WQXGA/ Win11H/ Steel Gray"></a>
-                                                </div>
-
-                      <div class="product__bottom">
-                          <div class="product__title">
-                              <a href="https://www.tncstore.vn/gaming-laptop/laptop-acer-gaming-predator-triton-500-se-pt516-52s-91xh.html" class="product__link">Laptop Acer Gaming Predator Triton 500 SE PT516-52s-91XH i9 12900H/ 32GB/ 1TB+1TB SSD/ RTX 3080Ti/ 16 inch WQXGA/ Win11H/ Steel Gray</a>
-                          </div>
-                          <div class="product__rate">
-                              <div class="rate__star">
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                              </div>
-                              <div class="rate__text">0 đánh giá</div>
-                          </div>
-                          <div class="product__price">
-                                                          <span class="price__selling">101.990.000 đ</span>
-                                                      </div>
-                          
-                                                      <button class="add-to-cart" type="button" @click="addToCart('6834', 1); return false;" >Mua ngay</button>
-                                                  </div>
-                  </div>
-                                                                <div class="product">
-                                            <div class="percent"><span>-5%</span></div>
-                                            <div class="product__thumb">
-                                                      <a class="product__link" href="https://www.tncstore.vn/gaming-laptop/laptop-asus-rog-zephyrus-g15-ga503rw-lm100w.html"><img src="image/cache/catalog/laptop/asus/G15 GA503QM-HQ097T/laptop-asus-rog-zephyrus-g15-g503qm-hq097t-1-228x228.jpg" alt="Laptop Asus ROG Zephyrus G15 GA503RW-LN100W Ryzen™ 7-6800HS/ 32GB/ 1TB/ RTX 3070 Ti/ Win 11"></a>
-                                                </div>
-
-                      <div class="product__bottom">
-                          <div class="product__title">
-                              <a href="https://www.tncstore.vn/gaming-laptop/laptop-asus-rog-zephyrus-g15-ga503rw-lm100w.html" class="product__link">Laptop Asus ROG Zephyrus G15 GA503RW-LN100W Ryzen™ 7-6800HS/ 32GB/ 1TB/ RTX 3070 Ti/ Win 11</a>
-                          </div>
-                          <div class="product__rate">
-                              <div class="rate__star">
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                                  <i class="fas fa-star "></i>
-                                                              </div>
-                              <div class="rate__text">0 đánh giá</div>
-                          </div>
-                          <div class="product__price">
-                                                          <span class="price__selling">62.990.000 đ</span>
-                              <span class="price__old">65.990.000 đ</span>
-                                                      </div>
-                          
-                                                      <button class="add-to-cart" type="button" @click="addToCart('6592', 1); return false;" >Đặt mua ngay</button>
-                                                  </div>
-                  </div>
-                                                                <div class="product">
-                                            <div class="percent"><span>-8%</span></div>
-                                            <div class="product__thumb">
-                                                      <a class="product__link" href="https://www.tncstore.vn/gaming-laptop/laptop-asus-rog-zephyrus-g15-ga503rm-ln006w.html"><img src="image/cache/catalog/laptop/asus/G15 GA503QM-HQ097T/laptop-asus-rog-zephyrus-g15-g503qm-hq097t-1-228x228.jpg" alt="Laptop Asus ROG Zephyrus G15 GA503RM-LN006W R7 6800HS/ 16GB/ 512GB/ RTX 3060 6GB/ 15.6-inch WQHD/ Win 11"></a>
-                                                </div>
 
 
 </body>
