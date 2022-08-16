@@ -11,34 +11,6 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-	ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-	
-<ul>
-  <li><a>Contact</a></li>
-  <li><a >Report</a></li>
-  <li><a >About</a></li>
-</ul>
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
   <img src="https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.6435-9/179240500_1099117690582511_1614432114218035177_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=A4QaakulorYAX-6Qefd&_nc_ht=scontent.fsgn5-3.fna&oh=00_AT9Hfwa81SqWfYgWooRugP1TGjzNMIAZoROeg2OElgIbxA&oe=6319C07D" alt="Logo" style="width:40px;" class="rounded-pill">
@@ -112,7 +84,7 @@ echo "Huy laptop store</br>";
 				
 				
 				
-				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/gearvn-laptop-asus-tuf-gaming-f15-fx506lhb-hn188w-2_2cd5300c224b4c74ac58260d2e87f7f5_large.png" alt="Laptop ASUS TUF Gaming F15 FX506LHB HN188W" />
+				<img class="product-row-thumbnail" src="https://product.hstatic.net/1000026716/product/gearvn-laptop-asus-tuf-gaming-f15-fx506lhb-hn188w-4_4c2bff03e891475188013e599528dab4.png"  />
 				<div class="product-row-price-hover">
 					<div class="product-row-note pull-left">Click để xem chi tiết</div>
 					<a href="/products/laptop-asus-tuf-gaming-f15-fx506lhb-hn188w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
@@ -139,7 +111,7 @@ echo "Huy laptop store</br>";
 				
 				
 				
-				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/fx506lh-hn188w_cd7936a34e974a3ba9e07503e4fcda53_large.jpg" alt="Laptop ASUS TUF Gaming F15 FX506LH HN188W" />
+				<img class="product-row-thumbnail" src="https://product.hstatic.net/1000026716/product/5_42455be16ea44a928a5acc496df36e7f.jpg" />
 				<div class="product-row-price-hover">
 					<div class="product-row-note pull-left">Click để xem chi tiết</div>
 					<a href="/products/laptop-asus-tuf-gaming-f15-fx506lh-hn188w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
@@ -165,7 +137,7 @@ echo "Huy laptop store</br>";
 				<span class="ico-product ico-km"> Best Seller</span>
 				
 				
-				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/g513_b4baf05245814c1cb7554349231e1d7f_large.png" alt="Laptop Gaming Asus ROG Strix G15 G513IH HN015W" />
+				<img class="product-row-thumbnail" src="https://product.hstatic.net/1000026716/product/2_fac324e3749d429abe57e25addf597f1.png"  />
 				<div class="product-row-price-hover">
 					<div class="product-row-note pull-left">Click để xem chi tiết</div>
 					<a href="/products/laptop-gaming-asus-rog-strix-g15-g513ih-hn015w" class="product-row-btnbuy pull-right">Mua</a></div></div>
