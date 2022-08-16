@@ -2,13 +2,14 @@
 <html>
 <body>
 <style> background-image: url ('img_girl.jpg'); </style>
-
+<head>
+<style>
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #dddddd;
+  background-color: #333;
 }
 
 li {
@@ -17,18 +18,32 @@ li {
 
 li a {
   display: block;
-  padding: 8px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
 }
 </style>
 </head>
 <body>
 
 <ul>
-  <li><a href="#home">Home</a></li>
+  <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
+
+</body>
+</html>
 <h1>Welcome to huy store</h1>
 
 <?php
