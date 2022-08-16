@@ -50,16 +50,30 @@
 <?php
 echo "Huy laptop store</br>";
 ?>
+<script src="//hstatic.net/0/0/global/design/js/jquery.min.1.11.0.js"></script>
+<script src="//hstatic.net/0/0/global/option_selection.js"></script>
+<script src="//hstatic.net/0/0/global/api.jquery.js"></script>
+<script src="//hstatic.net/0/0/global/customer_area.js"></script>
+<script src="//hstatic.net/0/0/global/haravan_common.js"></script>
+<link href='//theme.hstatic.net/1000026716/1000440777/14/general.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000026716/1000440777/14/jquery-ui.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000026716/1000440777/14/styles.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000026716/1000440777/14/bootstrap.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000026716/1000440777/14/superfish.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000026716/1000440777/14/owl.carousel.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000026716/1000440777/14/font-awesome.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<link href='//theme.hstatic.net/1000026716/1000440777/14/header_new.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
 
+<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery-migrate.min.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/tabs-state.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/caption.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery.ui.core.min.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery-ui.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/bootstrap.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/superfish.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/owl.carousel.min.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery.sticky-kit.min.js?v=27878' type='text/javascript'></script>
+<script src='//theme.hstatic.net/1000026716/1000440777/14/cokie.js?v=27878' type='text/javascript'></script>
 
-<?php
-$t = date("19");
-
-if ($t < "17") {
-    echo "We open!<>";
-} else {
-    echo "We close!";
-}
-?>
 </body>
 </html>
