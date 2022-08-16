@@ -155,6 +155,109 @@ echo "Huy laptop store</br>";
 		
 	</div>
 </div>
+	        <div class="col-md-4 col-sm-6 single">
+        
+            <div class="product">
+            
+                <a href="details.php?pro_id=8">
+                
+                    <img class="img-responsive" src="admin_area/product_images/slide-1.png">
+                
+                </a>
+                
+                <div class="text">
+                
+                    <h3>
+            
+                        <a href="details.php?pro_id=8">
+
+                            Spiderman
+
+                        </a>
+                    
+                    </h3>
+                    
+                    <p class="price">
+                    
+                        $ 35
+                    
+                    </p>
+                    
+                    <p class="button">
+                    
+                        <a class="btn btn-default" href="details.php?pro_id=8">
+
+                            View Details
+
+                        </a>
+                    
+                        <a class="btn btn-primary" href="details.php?pro_id=8">
+
+                            <i class="fa fa-shopping-cart"></i> Add to Cart
+
+                        </a>
+                    
+                    </p>
+                
+                </div>
+            
+            </div>
+        
+        </div>
+        
+        
+        
+        <div class="col-md-4 col-sm-6 single">
+        
+            <div class="product">
+            
+                <a href="details.php?pro_id=7">
+                
+                    <img class="img-responsive" src="admin_area/product_images/istockphoto-171115757-612x612.jpg">
+                
+                </a>
+                
+                <div class="text">
+                
+                    <h3>
+            
+                        <a href="details.php?pro_id=7">
+
+                            Superman
+
+                        </a>
+                    
+                    </h3>
+                    
+                    <p class="price">
+                    
+                        $ 20
+                    
+                    </p>
+                    
+                    <p class="button">
+                    
+                        <a class="btn btn-default" href="details.php?pro_id=7">
+
+                            View Details
+
+                        </a>
+                    
+                        <a class="btn btn-primary" href="details.php?pro_id=7">
+
+                            <i class="fa fa-shopping-cart"></i> Add to Cart
+
+                        </a>
+                    
+                    </p>
+                
+                </div>
+            
+            </div>
+        
+        </div>
+        
+
 
 
 </body>
