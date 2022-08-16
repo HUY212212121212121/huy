@@ -59,7 +59,7 @@ echo "Huy laptop store</br>";
 				<span class="ico-product ico-km"> Best Seller</span>
 				
 				
-				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/fa506ihrb_ce73a15ccdf346c7872320f1bec55055_large.png" alt="Laptop Gaming Asus Tuf FA506IHRB HN019W" />
+				<img class="product-row-thumbnail" src="https://product.hstatic.net/1000233206/product/asus-tuf-gaming-f15-fx507zm-hn123w-i7-12700h-2_725fde713b9a43e6a68772bd2d557bdf_master.png"/>
 				<div class="product-row-price-hover">
 					<div class="product-row-note pull-left">Click để xem chi tiết</div>
 					<a href="/products/laptop-gaming-asus-tuf-fa506ihrb-hn019w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
@@ -207,7 +207,7 @@ echo "Huy laptop store</br>";
 				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/g513_b4baf05245814c1cb7554349231e1d7f_large.png" alt="Laptop Gaming Asus ROG Strix G15 G513IH HN015W" />
 				<div class="product-row-price-hover">
 					<div class="product-row-note pull-left">Click để xem chi tiết</div>
-					<a href="/products/laptop-gaming-asus-rog-strix-g15-g513ih-hn015w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
+					<a href="/products/laptop-gaming-asus-rog-strix-g15-g513ih-hn015w" class="product-row-btnbuy pull-right">Mua</a></div></div>
 			<h2 class="product-row-name">Laptop Gaming Asus ROG Strix G15 G513IH HN015W</h2>
 			<div class="product-row-info">
 				<div class="product-row-price pull-left"><del>23,990,000₫</del><br/><span class="product-row-sale">17,990,000₫  </span></div>
