@@ -50,30 +50,178 @@
 <?php
 echo "Huy laptop store</br>";
 ?>
-<script src="//hstatic.net/0/0/global/design/js/jquery.min.1.11.0.js"></script>
-<script src="//hstatic.net/0/0/global/option_selection.js"></script>
-<script src="//hstatic.net/0/0/global/api.jquery.js"></script>
-<script src="//hstatic.net/0/0/global/customer_area.js"></script>
-<script src="//hstatic.net/0/0/global/haravan_common.js"></script>
-<link href='//theme.hstatic.net/1000026716/1000440777/14/general.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
-<link href='//theme.hstatic.net/1000026716/1000440777/14/jquery-ui.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
-<link href='//theme.hstatic.net/1000026716/1000440777/14/styles.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
-<link href='//theme.hstatic.net/1000026716/1000440777/14/bootstrap.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
-<link href='//theme.hstatic.net/1000026716/1000440777/14/superfish.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
-<link href='//theme.hstatic.net/1000026716/1000440777/14/owl.carousel.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
-<link href='//theme.hstatic.net/1000026716/1000440777/14/font-awesome.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
-<link href='//theme.hstatic.net/1000026716/1000440777/14/header_new.css?v=27878' rel='stylesheet' type='text/css'  media='all'  />
+<div class="col-sm-4 col-xs-12 padding-none col-fix20">
+	<div class="product-row">
+		<a href="/products/laptop-gaming-asus-tuf-fa506ihrb-hn019w">
+			<div class="product-row-img">
+				
+				
+				<span class="ico-product ico-km"> Best Seller</span>
+				
+				
+				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/fa506ihrb_ce73a15ccdf346c7872320f1bec55055_large.png" alt="Laptop Gaming Asus Tuf FA506IHRB HN019W" />
+				<div class="product-row-price-hover">
+					<div class="product-row-note pull-left">Click để xem chi tiết</div>
+					<a href="/products/laptop-gaming-asus-tuf-fa506ihrb-hn019w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
+			<h2 class="product-row-name">Laptop Gaming Asus Tuf FA506IHRB HN019W</h2>
+			<div class="product-row-info">
+				<div class="product-row-price pull-left"><del>18,990,000₫</del><br/><span class="product-row-sale">15,990,000₫  </span></div>
+				<!--<span class="product-row-buyer pull-right"><i class="fa fa-user"></i><br/>185</span>-->
+				
+				<div class="clearfix"></div>
+			</div>
+		</a>
+		
+		<div class="new-product-percent">-16%</div>
+		
+	</div>
+</div>
 
-<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery-migrate.min.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/tabs-state.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/caption.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery.ui.core.min.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery-ui.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/bootstrap.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/superfish.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/owl.carousel.min.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/jquery.sticky-kit.min.js?v=27878' type='text/javascript'></script>
-<script src='//theme.hstatic.net/1000026716/1000440777/14/cokie.js?v=27878' type='text/javascript'></script>
+							
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-4 col-xs-12 padding-none col-fix20">
+	<div class="product-row">
+		<a href="/products/laptop-asus-tuf-gaming-f15-fx506lhb-hn188w">
+			<div class="product-row-img">
+				
+				
+				
+				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/gearvn-laptop-asus-tuf-gaming-f15-fx506lhb-hn188w-2_2cd5300c224b4c74ac58260d2e87f7f5_large.png" alt="Laptop ASUS TUF Gaming F15 FX506LHB HN188W" />
+				<div class="product-row-price-hover">
+					<div class="product-row-note pull-left">Click để xem chi tiết</div>
+					<a href="/products/laptop-asus-tuf-gaming-f15-fx506lhb-hn188w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
+			<h2 class="product-row-name">Laptop ASUS TUF Gaming F15 FX506LHB HN188W</h2>
+			<div class="product-row-info">
+				<div class="product-row-price pull-left"><del>19,990,000₫</del><br/><span class="product-row-sale">16,490,000₫  </span></div>
+				<!--<span class="product-row-buyer pull-right"><i class="fa fa-user"></i><br/>185</span>-->
+				
+				<div class="clearfix"></div>
+			</div>
+		</a>
+		
+		<div class="new-product-percent">-18%</div>
+		
+	</div>
+</div>
+
+							
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-4 col-xs-12 padding-none col-fix20">
+	<div class="product-row">
+		<a href="/products/laptop-asus-tuf-gaming-f15-fx506lh-hn188w">
+			<div class="product-row-img">
+				
+				
+				
+				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/fx506lh-hn188w_cd7936a34e974a3ba9e07503e4fcda53_large.jpg" alt="Laptop ASUS TUF Gaming F15 FX506LH HN188W" />
+				<div class="product-row-price-hover">
+					<div class="product-row-note pull-left">Click để xem chi tiết</div>
+					<a href="/products/laptop-asus-tuf-gaming-f15-fx506lh-hn188w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
+			<h2 class="product-row-name">Laptop ASUS TUF Gaming F15 FX506LH HN188W</h2>
+			<div class="product-row-info">
+				<div class="product-row-price pull-left"><br/><span class="product-row-sale">16,490,000₫  </span></div>
+				<!--<span class="product-row-buyer pull-right"><i class="fa fa-user"></i><br/>185</span>-->
+				
+				<div class="clearfix"></div>
+			</div>
+		</a>
+		
+	</div>
+</div>
+
+							
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+<div class="col-sm-4 col-xs-12 padding-none col-fix20">
+	<div class="product-row">
+		<a href="/products/laptop-gaming-asus-rog-strix-g15-g513ih-hn015w">
+			<div class="product-row-img">
+				
+				
+				<span class="ico-product ico-km"> Best Seller</span>
+				
+				
+				<img class="product-row-thumbnail" src="//product.hstatic.net/1000026716/product/g513_b4baf05245814c1cb7554349231e1d7f_large.png" alt="Laptop Gaming Asus ROG Strix G15 G513IH HN015W" />
+				<div class="product-row-price-hover">
+					<div class="product-row-note pull-left">Click để xem chi tiết</div>
+					<a href="/products/laptop-gaming-asus-rog-strix-g15-g513ih-hn015w" class="product-row-btnbuy pull-right">Đặt hàng</a></div></div>
+			<h2 class="product-row-name">Laptop Gaming Asus ROG Strix G15 G513IH HN015W</h2>
+			<div class="product-row-info">
+				<div class="product-row-price pull-left"><del>23,990,000₫</del><br/><span class="product-row-sale">17,990,000₫  </span></div>
+				<!--<span class="product-row-buyer pull-right"><i class="fa fa-user"></i><br/>185</span>-->
+				
+				<div class="clearfix"></div>
+			</div>
+		</a>
+		
+		<div class="new-product-percent">-25%</div>
+		
+	</div>
+</div>
+
 
 </body>
 </html>
