@@ -11,7 +11,34 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
+	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+	
+<ul>
+  <li><a>Contact</a></li>
+  <li><a >Report</a></li>
+  <li><a >About</a></li>
+</ul>
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
   <img src="https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.6435-9/179240500_1099117690582511_1614432114218035177_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=A4QaakulorYAX-6Qefd&_nc_ht=scontent.fsgn5-3.fna&oh=00_AT9Hfwa81SqWfYgWooRugP1TGjzNMIAZoROeg2OElgIbxA&oe=6319C07D" alt="Logo" style="width:40px;" class="rounded-pill">
@@ -155,109 +182,7 @@ echo "Huy laptop store</br>";
 		
 	</div>
 </div>
-	        <div class="col-md-4 col-sm-6 single">
-        
-            <div class="product">
-            
-                <a href="details.php?pro_id=8">
-                
-                    <img class="img-responsive" src="admin_area/product_images/slide-1.png">
-                
-                </a>
-                
-                <div class="text">
-                
-                    <h3>
-            
-                        <a href="details.php?pro_id=8">
-
-                            Spiderman
-
-                        </a>
-                    
-                    </h3>
-                    
-                    <p class="price">
-                    
-                        $ 35
-                    
-                    </p>
-                    
-                    <p class="button">
-                    
-                        <a class="btn btn-default" href="details.php?pro_id=8">
-
-                            View Details
-
-                        </a>
-                    
-                        <a class="btn btn-primary" href="details.php?pro_id=8">
-
-                            <i class="fa fa-shopping-cart"></i> Add to Cart
-
-                        </a>
-                    
-                    </p>
-                
-                </div>
-            
-            </div>
-        
-        </div>
-        
-        
-        
-        <div class="col-md-4 col-sm-6 single">
-        
-            <div class="product">
-            
-                <a href="details.php?pro_id=7">
-                
-                    <img class="img-responsive" src="admin_area/product_images/istockphoto-171115757-612x612.jpg">
-                
-                </a>
-                
-                <div class="text">
-                
-                    <h3>
-            
-                        <a href="details.php?pro_id=7">
-
-                            Superman
-
-                        </a>
-                    
-                    </h3>
-                    
-                    <p class="price">
-                    
-                        $ 20
-                    
-                    </p>
-                    
-                    <p class="button">
-                    
-                        <a class="btn btn-default" href="details.php?pro_id=7">
-
-                            View Details
-
-                        </a>
-                    
-                        <a class="btn btn-primary" href="details.php?pro_id=7">
-
-                            <i class="fa fa-shopping-cart"></i> Add to Cart
-
-                        </a>
-                    
-                    </p>
-                
-                </div>
-            
-            </div>
-        
-        </div>
-        
-
+	        
 
 
 </body>
